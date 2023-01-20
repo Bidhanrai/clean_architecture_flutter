@@ -41,7 +41,7 @@ class LoginView extends StatelessWidget {
                   controller:
                   viewModel.userNameTextController,
                   decoration: const InputDecoration(
-                    hintText: "Enter username",
+                    hintText: "Enter your name",
                   ),
                 ),
                 const SizedBox(height: 20),
