@@ -8,7 +8,7 @@ A project implementing clean architecture for flutter apps.
 
 This project does not do much. 
 It's just a demonstration of how [clean architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) for flutter apps can be achieved.
-How files can be organized from feature-first approach.
+How files can be organized from [feature-first](https://codewithandrea.com/articles/flutter-project-structure/) approach.
 Each feature breaks down further into three main layers.
 
 
