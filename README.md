@@ -2,10 +2,12 @@
 
 A project implementing clean architecture for flutter apps.
 
-##About
+
+
+## About
 
 This project does not do much. 
-It's just a demonstration of how [clean architecture](https://betterprogramming.pub/the-clean-architecture-beginners-guide-e4b7058c1165) for flutter apps can be achieved.
+It's just a demonstration of how [clean architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) for flutter apps can be achieved.
 How files can be organized from feature-first approach.
 Each feature breaks down further into three main layers.
 
@@ -23,7 +25,7 @@ Each feature breaks down further into three main layers.
   State management logic
 
 
-##Plugins used
+## Plugins used
 
 - [stacked](https://pub.dev/packages/stacked) - used for state management based on provider package
 - [get_it](https://pub.dev/packages/get_it) - used for dependency injection
@@ -32,10 +34,10 @@ Each feature breaks down further into three main layers.
 
 
 ###some helpful links
-[](https://codewithandrea.com/articles/flutter-project-structure/)
-[](https://www.youtube.com/watch?v=6jjaVWEC9Qw)
-[](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-[](https://medium.com/ruangguru/an-introduction-to-flutter-clean-architecture-ae00154001b0)
+[https://codewithandrea.com/articles/flutter-project-structure/](https://codewithandrea.com/articles/flutter-project-structure/)
+[https://www.youtube.com/watch?v=6jjaVWEC9Qw](https://www.youtube.com/watch?v=6jjaVWEC9Qw)
+[https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+[https://medium.com/ruangguru/an-introduction-to-flutter-clean-architecture-ae00154001b](https://medium.com/ruangguru/an-introduction-to-flutter-clean-architecture-ae00154001b0)
 
 
   
