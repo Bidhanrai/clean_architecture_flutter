@@ -7,9 +7,12 @@ class AuthRepositoryImpl implements AuthRepository {
   AuthRepositoryImpl({required this.authDataSource});
 
   @override
-  Future<UserEntity> getUser({required String name}) async {
-    final response = await authDataSource.getUser(name: name);
-    return response;
+  Future<UserEntity> login({required String name}) async {
+    try {
+      final response = await authDataSource.getUser(name: name);
+      return response;
+    } catch(e) {
+      rethrow;
+    }
   }
-
 }

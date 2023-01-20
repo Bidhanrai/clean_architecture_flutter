@@ -1,8 +1,9 @@
 import 'package:clean_architecture_flutter_sampang/router.dart';
 import 'package:clean_architecture_flutter_sampang/features/auth/presentation/views/login_view.dart';
-import 'package:clean_architecture_flutter_sampang/service_locator.dart';
 import 'package:clean_architecture_flutter_sampang/services/navigation_service.dart';
 import 'package:flutter/material.dart';
+
+import 'dependency_injector.dart';
 
 void main() {
   di();

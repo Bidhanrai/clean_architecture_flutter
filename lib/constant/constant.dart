@@ -1,0 +1,1 @@
+const serverErrorMessage = "Internal Server Error";
