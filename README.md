@@ -1,4 +1,4 @@
-# clean_architecture_flutter_sampang
+# clean_architecture_flutter
 
 A project implementing clean architecture for flutter apps.
 
