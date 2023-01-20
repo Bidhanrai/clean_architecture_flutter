@@ -33,11 +33,11 @@ Each feature breaks down further into three main layers.
 
 
 
-###some helpful links
-[https://codewithandrea.com/articles/flutter-project-structure/](https://codewithandrea.com/articles/flutter-project-structure/)
-[https://www.youtube.com/watch?v=6jjaVWEC9Qw](https://www.youtube.com/watch?v=6jjaVWEC9Qw)
-[https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-[https://medium.com/ruangguru/an-introduction-to-flutter-clean-architecture-ae00154001b](https://medium.com/ruangguru/an-introduction-to-flutter-clean-architecture-ae00154001b0)
+### some helpful links
+- [https://codewithandrea.com/articles/flutter-project-structure/](https://codewithandrea.com/articles/flutter-project-structure/)
+- [https://www.youtube.com/watch?v=6jjaVWEC9Qw](https://www.youtube.com/watch?v=6jjaVWEC9Qw)
+- [https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- [https://medium.com/ruangguru/an-introduction-to-flutter-clean-architecture-ae00154001b](https://medium.com/ruangguru/an-introduction-to-flutter-clean-architecture-ae00154001b0)
 
 
   
